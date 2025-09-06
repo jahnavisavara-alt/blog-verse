@@ -23,3 +23,4 @@ console.log(typeof islogged)
 console.log(typeof x)
 console.log(typeof arr)
 console.log(typeof person)
+
